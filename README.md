@@ -1,4 +1,4 @@
-Notes Application (MERN Stack)
+_Notes Application (MERN Stack)_
 A simple and elegant Notes App built using the MERN stack (MongoDB, Express, React, Node.js) and styled with TailwindCSS. Create, read, and delete notes with ease!
 
 ![notes](https://github.com/user-attachments/assets/345d62cb-f39f-413f-8c6d-05285f8677af)
